@@ -95,5 +95,5 @@ Password: shaili
 
 ## Contributors
 **Name & Role**
-**Shaili Saxena	-- Backend Developer, Integration & Database
+**Shaili Saxena	-- Backend Developer, Integration & Database and 
 Soumya Saxena --	Frontend Developer & UI Designer**
